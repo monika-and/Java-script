@@ -36,6 +36,7 @@ switch (kolor) {
         break;
     case "zielony":
         console.log("kolor zielony");
+        break;
       case"niebieski":
         console.log("kolor niebieski");
         break;
